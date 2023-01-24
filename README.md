@@ -1,5 +1,14 @@
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
+## Stack
+
+- React
+- Next.js
+- Tailwindcss
+- Husky
+- MDX
+- Hosted on Vercel
+
 ## Installation
 
 ```bash
