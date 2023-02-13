@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: ' Nerdy Throwback Hardware',
+    description: `A YouTube channel with AI generated voiceover, that aims to showcase older but interesting computer hardware. Mainly video cards, but not only. Pieces of history. `,
+    imgSrc: '/static/images/youtube-channel.png',
+    href: 'https://www.youtube.com/@nerdythrowbackhardware/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Byagam',
+    description: `Running related content. Creating a place with resulst from most of the running races in Bulgaria. Publishing reviews and articles.`,
+    imgSrc: '/static/images/byagam.png',
+    href: 'https://byagam.com',
   },
 ]
 
